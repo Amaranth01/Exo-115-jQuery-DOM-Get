@@ -2,10 +2,7 @@ Consignes :
 
 - Incluez la librairie jQuery.
 
-- Créer le code jQuery approprié pour afficher dans une boite d'alerte le valeur du champs de formulaire ( input ).
-
-
-
+- Créer le code jQuery approprié pour afficher dans une boite d'alerte la valeur du champ de formulaire ( input ).
 
  Théorie :
 

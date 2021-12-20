@@ -2,7 +2,7 @@ Consignes :
 
 - Incluez la librairie jQuery.
 
-- Créer le code jQuery approprié pour afficher dans une boite d'alerte l'url die l'élément <a>.
+- Créer le code jQuery approprié pour afficher dans une boite d'alerte l'url de l'élément <a>.
 
 
 

@@ -4,9 +4,6 @@ Consignes :
   
 - Créer le code jQuery approprié pour afficher dans une boite d'alerte le contenu textuel de l'élément <p>.
 
-
-
-
  Théorie :
 
  jQuery dipose de méthodes pour modifier ou récuperer les valeurs de nos éléments html.
@@ -52,9 +49,3 @@ Consignes :
   alert($("#test").attr("href"));
 
   Récuperation de l'attribut href d'un élément html ( ici un élément <a> )
-
-
-
-
-
-
